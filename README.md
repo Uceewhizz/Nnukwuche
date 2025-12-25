@@ -33,9 +33,3 @@ With over **5 years of experience** across **fintech, digital payments, and cons
 > Links will appear as projects are added and pushed.
 
 ---
-
-## Run Locally
-```bash
-python -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-pytest -q  # optional: runs tests if present
