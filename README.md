@@ -1,6 +1,6 @@
 
-# Umeji Uchenna Emmanuel  
-**Data Analyst | Commercial Strategy | Economist | Aspiring Python Quant Developer**
+# Uchenna Umeji 
+**Data Analyst | Commercial Strategy | Economist | Python Quant Developer**
 
 I turn complex economic, financial, and transactional data into **forecasting, pricing, and performance insights**.  
 With over **5 years of experience** across **fintech, digital payments, and consulting**, I build **production-grade analytics** and **quantitative research** for global markets.
@@ -29,7 +29,5 @@ With over **5 years of experience** across **fintech, digital payments, and cons
 - **Executive KPI Dashboard (Power BI)** — Business narrative & drilldowns  
 - **Cross-Sectional Factor Models** — Value/Quality/Momentum + tear sheets  
 - **Backtesting Pipeline (vectorbt)** — Transaction costs, slippage, benchmarking  
-
-> Links will appear as projects are added and pushed.
 
 ---
